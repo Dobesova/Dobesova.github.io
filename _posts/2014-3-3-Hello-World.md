@@ -1,10 +1,13 @@
----
-layout: post
-title: You're up and running!
----
+<div class="uvod">
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<html>
+    
+<head>
+  <title>Háčkování</title>
+</head>
+<body>
+<h1> Úvodní slovo </h1>
+<p>Navzdory tomu, že technologie jsou na vzestupu a možností, jak trávit volný čas, kterého máme pořád méně, je mnoho, ruční práce si získávají větší a větší oblibu. Možná právě proto, že návody, nápady a hotová díla se dají sdílet s širokým okruhem nadšenců na webu. 
+</p>
+</body>
+</html>
